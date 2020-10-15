@@ -16,3 +16,12 @@ You own the mall and want to understand the customers like who can be easily con
 
 
 *Dataset:* https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+---
+
+### Cluster Models: 
+* Hierarchical Clustering (Agglomerative method)
+* K-means Clustering
+* Mean-shift Clustering
+* DBSCAN Clustering
+* Gaussian Mixture Models
