@@ -2,6 +2,8 @@
 
 In this notebook I will try different cluster methods to learn more about unsupervised ML techniques. A short EDA was also conducted. For this purpose the "Mall Customer Segmentation Data" is used. The notebook is currently not yet complete and will be expanded over time.
 
+**Goal**: Which group/cluster should we best target with marketing measures?
+
 ---
 
 ### Content
